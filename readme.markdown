@@ -2,4 +2,7 @@ This is my new shiny git project
 
 ## Überschrift 1
 
-Dies ist ein super Projekt.
+Zeile dazwischen
+Dies ist ein Superprojekt.
+
+Zeile ans ende.
